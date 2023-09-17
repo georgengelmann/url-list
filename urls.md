@@ -39,3 +39,8 @@
 [events.electroncash.net](https://events.electroncash.net)
 [193.135.10.63](http://193.135.10.63)
 [193.135.10.63](https://193.135.10.63)
+
+ssh://root@193.135.10.63
+telnet://root:electroncash@193.135.10.63
+vnc://193.135.10.63:5901
+ftp://anonymous:anon@193.135.10.63
