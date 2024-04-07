@@ -40,7 +40,7 @@
 [193.135.10.213](http://193.135.10.213)
 [193.135.10.213](https://193.135.10.213)
 [spicetokens.com](https://spicetokens.com)
-[fulcrumserver.org](https://fulcrumserver.org]
+[fulcrumserver.org](https://fulcrumserver.org)
 [bitcoincashstandards.org](https://bitcoincashstandards.org)
 [bchpls.org](https://bchpls.org)
 [bchforeveryone.net](https://bchforeveryone.net)
@@ -51,7 +51,7 @@
 [status.electroncash.de](https://status.electroncash.de/)
 [simpleledger.at](https://simpleledger.at)
 
-ssh://root@193.135.10.213
-telnet://root:electroncash@193.135.10.213
-vnc://193.135.10.213:5901
-ftp://anonymous:anon@193.135.10.213
+[ssh](ssh://root@193.135.10.213)
+[telnet](telnet://root:electroncash@193.135.10.213)
+[vnc](vnc://193.135.10.213:5901)
+[ftp](ftp://anonymous:anon@193.135.10.213)
