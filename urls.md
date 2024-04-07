@@ -37,10 +37,21 @@
 [wiki.bitcoincashstandards.org](https://wiki.bitcoincashstandards.org)
 [backup.spicetokens.com](https://backup.spicetokens.com)
 [events.electroncash.net](https://events.electroncash.net)
-[193.135.10.63](http://193.135.10.63)
-[193.135.10.63](https://193.135.10.63)
+[193.135.10.213](http://193.135.10.213)
+[193.135.10.213](https://193.135.10.213)
+[spicetokens.com](https://spicetokens.com)
+[fulcrumserver.org](https://fulcrumserver.org]
+[bitcoincashstandards.org](https://bitcoincashstandards.org)
+[bchpls.org](https://bchpls.org)
+[bchforeveryone.net](https://bchforeveryone.net)
+[bchgang.net](https://bchgang.net)
+[wiki.electroncash.de](https://wiki.electroncash.de/wiki/Main_Page)
+[bchgang.org](https://bchgang.org)
+[linkdirectory.at](https://linkdirectory.at/)
+[status.electroncash.de](https://status.electroncash.de/)
+[simpleledger.at](https://simpleledger.at)
 
-ssh://root@193.135.10.63
-telnet://root:electroncash@193.135.10.63
-vnc://193.135.10.63:5901
-ftp://anonymous:anon@193.135.10.63
+ssh://root@193.135.10.213
+telnet://root:electroncash@193.135.10.213
+vnc://193.135.10.213:5901
+ftp://anonymous:anon@193.135.10.213
