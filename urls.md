@@ -51,7 +51,7 @@
 [status.electroncash.de](https://status.electroncash.de/)
 [simpleledger.at](https://simpleledger.at)
 
-[ssh](ssh://root@193.135.10.213)
-[telnet](telnet://root:electroncash@193.135.10.213)
-[vnc](vnc://193.135.10.213:5901)
-[ftp](ftp://anonymous:anon@193.135.10.213)
+ssh://root@193.135.10.213
+telnet://root:electroncash@193.135.10.213
+vnc://193.135.10.213:5901
+ftp://anonymous:anon@193.135.10.213
